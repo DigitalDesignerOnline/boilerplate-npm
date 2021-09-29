@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"email": "chad@warfordesigns.com",
+		"url": "https://warfordesigns.com",
+		"name": "Chad Warford"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
